@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8263eec4e56a4dd68d9dedc3f2ea0b9a" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.sysdiagrams" Width="1.5" PointX="14.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_acao_banner" Width="1.5" PointX="12.75" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_analise_pedido_vias_crm" Width="1.5" PointX="9.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_analise_spd_conta" Width="1.5" PointX="15.5" PointY="218" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_aux_developer" Width="1.5" PointX="4.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_aux_sbe" Width="1.5" PointX="14.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_avaliacao" Width="1.5" PointX="16.25" PointY="129.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_banco" Width="1.5" PointX="25" PointY="105.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_banco_conta_digital" Width="1.5" PointX="17" PointY="158.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_banner" Width="1.5" PointX="15" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_black_list" Width="1.5" PointX="36.5" PointY="138.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_black_list_usuario_forma_pagamento" Width="1.5" PointX="40.75" PointY="144.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_bloqueio_cartao" Width="1.5" PointX="27.5" PointY="130.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_boleto" Width="1.5" PointX="29.5" PointY="140.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_campanha" Width="1.5" PointX="0.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_canal" Width="1.5" PointX="22" PointY="117.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_chave_pix" Width="1.5" PointX="22" PointY="146.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cidade" Width="1.5" PointX="3" PointY="133.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_conta" Width="1.5" PointX="27.25" PointY="105.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_motivo_relacionamento" Width="1.5" PointX="17" PointY="148.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_protocolo_atendimento" Width="1.5" PointX="2.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_relacionamento" Width="1.5" PointX="19.25" PointY="132" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_relacionamento_arquivos" Width="1.5" PointX="21.5" PointY="143.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_relacionamento_usr_atribuido" Width="1.5" PointX="26.5" PointY="139.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_situacao_relacionamento" Width="1.5" PointX="17" PointY="151.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_situacao_relacionamento_usr_atribuido" Width="1.5" PointX="24.25" PointY="149.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_crm_tipo_relacionamento" Width="1.5" PointX="17" PointY="154.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cupom" Width="1.5" PointX="17" PointY="117.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cupom_categoria_loja" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cupom_loja" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cupom_oferta" Width="1.5" PointX="10" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_cupom_usuario" Width="1.5" PointX="13.25" PointY="128.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_deletar" Width="1.5" PointX="4.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_diagnostico_contas_dock" Width="1.5" PointX="16.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_dicionario_erro" Width="1.5" PointX="32.5" PointY="151.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_duvida" Width="1.5" PointX="15" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_duvida_assunto" Width="1.5" PointX="12.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_duvida_assunto_revenda" Width="1.5" PointX="12.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_duvida_revenda" Width="1.5" PointX="15" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_erro_abertura_conta" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_erro_sistema" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_estado_civil" Width="1.5" PointX="6.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_estorno_pedido" Width="1.5" PointX="26.5" PointY="145" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_estorno_pedido_item" Width="1.5" PointX="37.75" PointY="145.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_estudante_complemento" Width="1.5" PointX="17.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_etapa_via" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_etapa_via_rejeicao" Width="1.5" PointX="8.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_faq" Width="1.5" PointX="5.25" PointY="129.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_fastcash_phill" Width="1.5" PointX="10.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_fila_analise_revalidacao" Width="1.5" PointX="29.5" PointY="146.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_fila_envio_email" Width="1.5" PointX="17.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_fila_notificacao" Width="1.5" PointX="18.25" PointY="138.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_fluxo_etapa_via" Width="1.5" PointX="3" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_forma_pagamento" Width="1.5" PointX="22" PointY="150" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_formulario_pergunta" Width="1.5" PointX="17" PointY="113.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_formulario_resposta_usuario" Width="1.5" PointX="19.25" PointY="128.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_gateway" Width="1.5" PointX="19.75" PointY="149" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_gateway_fastcash" Width="1.5" PointX="22" PointY="158.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ged_pedido" Width="1.5" PointX="26.5" PointY="150" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ged_pedido_cartao" Width="1.5" PointX="16.25" PointY="125.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ged_pedido_cash_in" Width="1.5" PointX="17.75" PointY="172.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ged_revalidacao" Width="1.5" PointX="26.5" PointY="152.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ged_temporario" Width="1.5" PointX="13.25" PointY="125.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_historico_pedido_pagamento_picpay" Width="1.5" PointX="17.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_historico_requisicao_via" Width="1.5" PointX="10" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_importacao_adyen" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_instrucao_boleto" Width="1.5" PointX="25" PointY="108.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_integracao" Width="1.5" PointX="9.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_integracao_historico" Width="1.5" PointX="12" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_integracao_parametro_notificacao" Width="1.5" PointX="18.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_itinerarios" Width="1.5" PointX="12.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_EMPRESA3lometros" Width="1.5" PointX="21.25" PointY="138.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_EMPRESA3lometros_config" Width="1.5" PointX="14.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_EMPRESA3lometros_expirados" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_EMPRESA3lometros_integracoes_diarias" Width="1.5" PointX="19.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_EMPRESA3lometros_resgate" Width="1.5" PointX="19.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_linha_itinerario" Width="1.5" PointX="19.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_linha_paradas" Width="1.5" PointX="19.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_alt_telefone" Width="1.5" PointX="13.25" PointY="138.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_black_list" Width="1.5" PointX="8" PointY="114.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_black_list_usuario_forma_pagamento" Width="1.5" PointX="35.25" PointY="124" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_conciliacao_fastcash" Width="1.5" PointX="19.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_doacao" Width="1.5" PointX="13.25" PointY="142.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_dock" Width="1.5" PointX="16.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_dock2" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_email" Width="1.5" PointX="13.25" PointY="144.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_erro_abertura_conta" Width="1.5" PointX="2.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_itau_pix" Width="1.5" PointX="21.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_notificacao_gateway" Width="1.5" PointX="4.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_pedido" Width="1.5" PointX="30.5" PointY="136.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_pedido_estocagem" Width="1.5" PointX="6.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_pedido_item" Width="1.5" PointX="34.75" PointY="142.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_pedido_item_cancelamento_rv" Width="1.5" PointX="37.75" PointY="142.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_registro" Width="1.5" PointX="13.25" PointY="148" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_sbe" Width="1.5" PointX="21.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_sms" Width="1.5" PointX="13.25" PointY="151.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_terminal" Width="1.5" PointX="8.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_alteracao" Width="1.5" PointX="16.25" PointY="142.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_cartao" Width="1.5" PointX="19.25" PointY="125.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_programa_fidelidade" Width="1.5" PointX="13.25" PointY="155.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_revenda" Width="1.5" PointX="13.25" PointY="158.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_revenda_comissao" Width="1.5" PointX="22.25" PointY="133.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_revenda_limite" Width="1.5" PointX="22.25" PointY="129.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_log_usuario_revenda_suspenso" Width="1.5" PointX="13.25" PointY="167.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_menu_adm" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_motivo_baixa" Width="1.5" PointX="10.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_municipio_SBE" Width="1.5" PointX="5.25" PointY="136.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_nacionalidade" Width="1.5" PointX="8.75" PointY="128.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_notificacao" Width="1.5" PointX="22.25" PointY="124.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ofertas" Width="1.5" PointX="5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ofertas_categoria" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_ofertas_loja" Width="1.5" PointX="2.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora" Width="1.5" PointX="3" PointY="136.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_acerto" Width="1.5" PointX="34.75" PointY="148.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_banco_conta" Width="1.5" PointX="5.25" PointY="139.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_cidade" Width="1.5" PointX="5.25" PointY="133.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_empresa" Width="1.5" PointX="5.25" PointY="143.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_empresa_tipo_cartao" Width="1.5" PointX="32.5" PointY="155" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_forma_pagamento_gateway" Width="1.5" PointX="24.25" PointY="152.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_linha" Width="1.5" PointX="5.25" PointY="147.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_mapa_params" Width="1.5" PointX="5.25" PointY="152" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_mensagem" Width="1.5" PointX="5.25" PointY="155.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_parceiro_logistico" Width="1.5" PointX="10.25" PointY="146.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_tipo_canal" Width="1.5" PointX="28" PointY="133.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_operadora_versao_api" Width="1.5" PointX="21.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_orgao_emissor" Width="1.5" PointX="8.75" PointY="139.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pagamento_pedido_parcelado" Width="1.5" PointX="12.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_paradas" Width="1.5" PointX="21.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_param_atualizacao_mapa" Width="1.5" PointX="21.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_param_estocagem_integracao" Width="1.5" PointX="21.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parameto_itau" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro" Width="1.5" PointX="23.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_anti_fraude" Width="1.5" PointX="23.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_cashback" Width="1.5" PointX="32.5" PointY="158" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_cashdeal" Width="1.5" PointX="23.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_comissao" Width="1.5" PointX="5.25" PointY="163.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_email" Width="1.5" PointX="18.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_parcelamento" Width="1.5" PointX="22" PointY="161.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_pix_wso" Width="1.5" PointX="23.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_revenda_comissao" Width="1.5" PointX="32.5" PointY="169.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_rv" Width="1.5" PointX="2.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_tentativa_most" Width="1.5" PointX="4.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parametro_terceiro" Width="1.5" PointX="14.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_parceiro_logistico" Width="1.5" PointX="8" PointY="150.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido" Width="1.5" PointX="24.25" PointY="136.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_atm" Width="1.5" PointX="13.25" PointY="174.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_cash_in" Width="1.5" PointX="15.5" PointY="170.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_entrega" Width="1.5" PointX="3" PointY="128.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_item" Width="1.5" PointX="32.5" PointY="139.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_item_cartao" Width="1.5" PointX="8" PointY="131.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_pagamento_picpay" Width="1.5" PointX="26.5" PointY="167.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_pagamento_pix" Width="1.5" PointX="33.5" PointY="133.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_revenda" Width="1.5" PointX="33.5" PointY="128.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_pedido_rv" Width="1.5" PointX="23.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_perfil" Width="1.5" PointX="3.5" PointY="114.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_perfil_sub_menu_adm" Width="1.5" PointX="5.75" PointY="57.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_posto" Width="1.5" PointX="5.75" PointY="120.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_posto_operadora" Width="1.5" PointX="8" PointY="122.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_programa_fidelidade" Width="1.5" PointX="8.75" PointY="141.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_programa_fidelidade_resgate" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_quadro_horario" Width="1.5" PointX="25.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_recarga_automatica" Width="1.5" PointX="15.5" PointY="178.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_recarga_programada" Width="1.5" PointX="18.5" PointY="181.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_rel_liq_cobranca" Width="1.5" PointX="30.5" PointY="126.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_remessa_cobranca" Width="1.5" PointX="27.25" PointY="156.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_requisicao_qrcode" Width="1.5" PointX="25.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_requisicao_via" Width="1.5" PointX="7.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_servico" Width="1.5" PointX="6.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_conta" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_conta_dock" Width="1.5" PointX="8.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_entrega" Width="1.5" PointX="30.25" PointY="167.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_pedido" Width="1.5" PointX="22" PointY="155.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_pedido_item" Width="1.5" PointX="30.25" PointY="123.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_pedido_pagamento_picpay" Width="1.5" PointX="25.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_pedido_pagamento_pix" Width="1.5" PointX="31.25" PointY="120.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_status_requisicao_via" Width="1.5" PointX="10.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_sub_menu_adm" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tarefa_entrega" Width="1.5" PointX="32.5" PointY="148.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_taxa_adm" Width="1.5" PointX="36.25" PointY="133.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_taxa_operadora_tipo_cartao" Width="1.5" PointX="24.25" PointY="156.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tentativa_most" Width="1.5" PointX="25.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_terminal" Width="1.5" PointX="7.5" PointY="145.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_termo_de_uso" Width="1.5" PointX="23" PointY="113.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_termo_operadora" Width="1.5" PointX="25.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_atualizacao" Width="1.5" PointX="25.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_canal" Width="1.5" PointX="19.75" PointY="117.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_cartao" Width="1.5" PointX="30.25" PointY="156.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_cartao_estoque" Width="1.5" PointX="30.5" PointY="131.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_cartao_forma_pagamento" Width="1.5" PointX="35.5" PointY="156.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_cartao_tecnologia" Width="1.5" PointX="28" PointY="160.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_cartao_valor" Width="1.5" PointX="30.25" PointY="150.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_documento" Width="1.5" PointX="20.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_email" Width="1.5" PointX="25.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_endereco" Width="1.5" PointX="25.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_log_registro" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_notificacao" Width="1.5" PointX="20" PointY="114.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_ocupacao" Width="1.5" PointX="27.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_pedido_item" Width="1.5" PointX="30.25" PointY="117.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_pedido_item_fluxo_status" Width="1.5" PointX="32.5" PointY="123.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_telefone" Width="1.5" PointX="27.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_tipo_transacao" Width="1.5" PointX="17" PointY="160.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_transacao_conta_digital" Width="1.5" PointX="19.25" PointY="143.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_transacao_programa_fidelidade" Width="1.5" PointX="13.25" PointY="214.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_uf" Width="1.5" PointX="0.75" PointY="133.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario" Width="1.5" PointX="11" PointY="123.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_adm" Width="1.5" PointX="5.75" PointY="112.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_adm_operadora_empresa" Width="1.5" PointX="8" PointY="125.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_banco_conta" Width="1.5" PointX="13.25" PointY="219.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_banco_conta_chave" Width="1.5" PointX="15.5" PointY="221.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cartao" Width="1.5" PointX="25.25" PointY="129.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cartao_credito" Width="1.5" PointX="13.25" PointY="232.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cartao_credito_endereco_cobranca" Width="1.5" PointX="15.5" PointY="232.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cartao_credito_gateway_token" Width="1.5" PointX="18.5" PointY="233" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cartao_favorito_linha" Width="1.5" PointX="27.5" PointY="136.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_conta_corrente" Width="1.5" PointX="13.25" PointY="237" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_cupom" Width="1.5" PointX="19.25" PointY="122.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_dependente" Width="1.5" PointX="13.25" PointY="131.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_dependente_documento_banco" Width="1.5" PointX="15.5" PointY="137.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_documento_banco" Width="1.5" PointX="13.25" PointY="243.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_endereco" Width="1.5" PointX="16.25" PointY="132.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_equipamento" Width="1.5" PointX="13.25" PointY="246.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_favorito_linha" Width="1.5" PointX="13.25" PointY="121.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_favorito_paradas" Width="1.5" PointX="16.25" PointY="121.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_revenda_comissao" Width="1.5" PointX="25.25" PointY="126.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_revenda_operadora" Width="1.5" PointX="16.25" PointY="145.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_revenda_pre_estocagem" Width="1.5" PointX="22.25" PointY="121.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_saldo" Width="1.5" PointX="13.25" PointY="265.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_solicitacao_exclusao" Width="1.5" PointX="27.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_usuario_termo_de_uso" Width="1.5" PointX="25.25" PointY="122.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.tb_natureza_juridica" Width="1.5" PointX="27.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_acessos_por_dia" Width="1.5" PointX="27.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_controle_adyen" Width="1.5" PointX="16.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_relacionamento_usuario" Width="1.5" PointX="27.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_canal" Width="1.5" PointX="27.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_crm_motivo_relacionamento" Width="1.5" PointX="27.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_crm_tipo_relacionamento" Width="1.5" PointX="2.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_forma_pagamento" Width="1.5" PointX="8.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_operadora" Width="1.5" PointX="10.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_pedido_item" Width="1.5" PointX="12.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_perfil" Width="1.5" PointX="18.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_status_pedido" Width="1.5" PointX="20.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_status_pedido_item" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_taxa_operadora_tipo_cartao" Width="1.5" PointX="29.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_tipo_cartao" Width="1.5" PointX="4.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_tipo_pedido_item" Width="1.5" PointX="29.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario" Width="1.5" PointX="29.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario_adm" Width="1.5" PointX="29.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario_cartao" Width="1.5" PointX="29.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario_pedido" Width="1.5" PointX="29.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario_pedido_log_mudanca" Width="1.5" PointX="22.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_tb_usuario_sem_cartao" Width="1.5" PointX="24.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_usuario_cadastro_cartao" Width="1.5" PointX="29.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_usuario_pedidos" Width="1.5" PointX="29.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_bi_vendas" Width="1.5" PointX="26.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_Cupom_Disponivel_Usuario" Width="1.5" PointX="31.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_integracao" Width="1.5" PointX="31.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_EMPRESA3lometros_agrupados" Width="1.5" PointX="6.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_Pedidos_AntiFraude" Width="1.5" PointX="31.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_Pedidos_AntiFraude_Recarga_Celular" Width="1.5" PointX="31.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_Pedidos_AntiFraude_Servicos_Digitais" Width="1.5" PointX="12.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_pedidos_pagar_operadora" Width="1.5" PointX="31.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_qnt_cartoes_operadoras" Width="1.5" PointX="31.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_qnt_usuarios_operadoras" Width="1.5" PointX="18.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_SaldoBloqueado" Width="1.5" PointX="31.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_ServicosOperadoras" Width="1.5" PointX="31.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_status_item_pedido" Width="1.5" PointX="31.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_status_pedido" Width="1.5" PointX="31.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_UsuarioCartaoOperadora" Width="1.5" PointX="2.75" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vw_VendasRevenda" Width="1.5" PointX="8.75" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_EMPRESA3_PRDModel.vwListDashBoard" Width="1.5" PointX="20.75" PointY="32.75" IsExpanded="true" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_banner_tb_acao_banner" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_analise_spd_conta_tb_analise_spd_conta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_avaliacao_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_avaliacao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_conta_banco" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_transacao_tb_banco_conta_digital" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_transacao_conta_digital_tb_banco_conta_digital" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_black_list_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_black_list_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_black_list_usuario_forma_pagamento_tb_black_list" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_black_list_usuario_forma_pagamento_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_bloqueio_cartao_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_boleto_tb_conta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_boleto_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_boleto_tb_remessa_cobranca" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_canal_tb_tipo_canal" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_canal" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_tb_canal" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_chave_pix_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_cidade_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_cidade_tb_cidade" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_conta_instrucao_boleto" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_cd_motivo_relacionamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.cd_relacionamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_cd_relacionamento_arquivo" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_cd_situacao_relacionamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_cd_tipo_relacionamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_cd_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_crm_relacionamento_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_crm_relacionamento_usr_atribuido_tb_crm_situacao_situacao_relacionamento_usr_atribuido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_crm_relacionamento_usr_atribuido_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_crm_relacionamento_usr_atribuido_tb_usuario_adm1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_cupom_usuario_tb_cupom" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cupom_tb_cupom" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_cupom_oferta_tb_cupom_categoria_loja" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_cupom_oferta_tb_cupom_loja" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_cupom_usuario_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_item_tb_dicionario_erro" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_duvida_tb_duvida" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_duvida_tb_duvida_revenda" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_estorno_pedido_item_tb_estorno_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_estorno_pedido_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_estorno_pedido_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_estorno_pedido_tb_usuario_adm1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_estorno_pedido_item_tb_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_fluxo_etapa_via_tb_etapa_via" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.Fk_tb_faq_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_fila_analise_revalidacao_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_fila_analise_revalidacao_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_fila_notificacao_tb_tipo_notificacao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_fila_notificacao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_forma_pagamento_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_black_list_usuario_forma_pagamento_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_forma_pagamento_gateway_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_parametro_cashback_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_cash_in_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_taxa_adm_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_taxa_operadora_tipo_cartao_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_forma_pagamento_tb_forma_pagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_formulario_resposta_usuario_tb_formulario_pergunta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_formulario_resposta_usuario_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_gateway_fastcash_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_forma_pagamento_gateway_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_parametro_parcelamento_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_credito_gateway_token_tb_gateway" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ged_pedido_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ged_pedido_cartao_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ged_pedido_cartao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ged_pedido_cash_in_tb_pedido_cash_in" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_ged_revalidacao_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ged_temporario_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_historico_requisicao_via_tb_requisicao_via" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_integracao_historico_tb_integracao_historico" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_EMPRESA3lometros_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_EMPRESA3lometros_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_alt_telefone_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_black_list_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_black_list_usuario_forma_pagamento_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_doacao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_email_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_tb_status_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_item_tb_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_item_tb_status_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_item_cancelamento_rv_tb_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_pedido_item_cancelamento_rv_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_registro_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_sms_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_alteracao_tb_log_usuario_alteracao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_alteracao_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_cartao_tb_log_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_cartao_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_programa_fidelidade_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_comissao_tb_log_usuario_revenda_comissao1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_comissao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_limite_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_limite_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_log_usuario_revenda_suspenso_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_sub_menu_adm_tb_menu_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_municipio_SBE_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_tb_nacionalidade" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_notificacao_tb_tipo_notificacao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_notificacao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ofertas_tb_ofertas_categoria" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_ofertas_tb_ofertas_loja" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_banco_conta_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_cidade_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_empresa_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_forma_pagamento_gateway_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_linha_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_mapa_params_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_mensagem_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_parceiro_logistico_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_tipo_canal_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_parametro_comissao_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_revenda_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_posto_operadora_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_taxa_adm_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_taxa_operadora_tipo_cartao_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_terminal_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_favorito_linha_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_favorito_paradas_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_operadora_tb_operadora" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_acerto_tb_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_empresa_tipo_cartao_tb_operadora_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_terminal_tb_terminal" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_adm_operadora_empresa_tb_operadora_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_empresa_tipo_cartao_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_parceiro_logistico_tb_parceiro_logistico" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_operadora_tipo_canal_tb_tipo_canal" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_tb_orgao_emissor" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_parametro_cashback_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_parametro_revenda_comissao_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_pedido_entrega_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_pagamento_picpay_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_pagamento_pix_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_revenda_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_status_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_tb_usuario_cupom" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_rel_liq_cobranca_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_tarefa_entrega_tb_pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_atm_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_cash_in_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_cash_in_tb_usuario_banco_conta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_pedido_entrega_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_cartao_tb_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_tb_status_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_pedido_item_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_tb_tipo_cartao_valor" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_cartao_tb_posto" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_cartao_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_cartao_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_item_cartao_tb_usuario_adm1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_pagamento_picpay_tb_pedido_pagamento_picpay" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_pagamento_pix_tb_status_pedido_pagamento_pix" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_pedido_revenda_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_perfil_sub_menu_adm_tb_perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_adm_tb_perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_perfil_sub_menu_adm_tb_sub_menu_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_posto_operadora_tb_posto" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_tb_programa_fidelidade" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_automatica_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_automatica_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_automatica_tb_usuario_cartao_credito" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_programada_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_programada_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_recarga_programada_tb_usuario_cartao_credito" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_rel_liq_cobranca_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_status_conta_tb_status_conta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.fk_tb_tarefa_entrega_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_pedido_item_fluxo_status_tb_status_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_termo_de_uso_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_termo_de_uso_tb_termo_de_uso" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_estoque_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_forma_pagamento_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_tb_tipo_cartao_tecnologia" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_valor_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_tb_tipo_cartao1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_comissao_tb_tipo_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_cartao_estoque_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_tipo_pedido_item_fluxo_status_tb_tipo_pedido_item" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_transacao_conta_digital_tb_tipo_transacao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_transacao_conta_digital_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_transacao_programa_fidelidade_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_dependente_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_endereco_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_tb_uf" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_banco_conta_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_credito_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_conta_corrente_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cupom_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_dependente_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_documento_banco_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_endereco_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_equipamento_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_favorito_linha_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_favorito_paradas_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_comissao_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_operadora_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_pre_estocagem_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_saldo_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_termo_de_uso_tb_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_adm_operadora_empresa_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_revenda_pre_estocagem_tb_usuario_adm" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_banco_conta_chave_tb_usuario_banco_conta" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_favorito_linha_tb_usuario_cartao" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_credito_endereco_cobranca_tb_usuario_cartao_credito" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_cartao_credito_gateway_token_tb_usuario_cartao_credito" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_EMPRESA3_PRDModel.FK_tb_usuario_dependente_documento_banco_tb_usuario_dependente" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
